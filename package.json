@@ -1,0 +1,11 @@
+{
+ "name": "langtrans-345",
+ "version": "0.0.1",
+ "description": "App for traslating text from one language to other using Callback",
+ "scripts": {
+ "start": "node app.js"
+ },
+ "dependencies": {
+ "watson-developer-cloud": "^1.0.0"
+ }
+}
